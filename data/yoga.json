@@ -1,0 +1,172 @@
+[
+  {
+    "id": "c2cf0d96-43c7-4a60-aa3e-52a0f937a87c",
+    "title": "Vinyasa Flow",
+    "instructor": "Zephyr Woods",
+    "description": "Join Zephyr Woods for an energizing vinyasa flow class. This class is perfect for intermediate and advanced students looking for a challenge.",
+    "durationInMinutes": 60,
+    "level": "Intermediate/Advanced",
+    "style": "Vinyasa",
+    "priceInCents": 2000
+  },
+  {
+    "id": "d536d512-b2a6-4f6b-a7db-5ea6f1e6ce13",
+    "title": "Yin Yoga",
+    "instructor": "Lazuli Moon",
+    "description": "Join Lazuli Moon for a calming yin yoga class. This class is perfect for beginners and anyone looking to relax and release tension.",
+    "durationInMinutes": 75,
+    "level": "Beginner",
+    "style": "Yin",
+    "priceInCents": 1500
+  },
+  {
+    "id": "01f5ef88-5a5c-48f1-a616-c7d56f044eed",
+    "title": "Power Yoga",
+    "instructor": "Bodhi Ocean",
+    "description": "Join Bodhi Ocean for a powerful and dynamic power yoga class. This class is perfect for advanced students looking to build strength and endurance.",
+    "durationInMinutes": 90,
+    "level": "Advanced",
+    "style": "Power",
+    "priceInCents": 2500
+  },
+  {
+    "id": "6c3b6fcb-7c29-4ec0-b7f9-bc5e5d5c8db2",
+    "title": "Hatha Yoga",
+    "instructor": "Kairos Snow",
+    "description": "Join Kairos Snow for a traditional hatha yoga class. This class is perfect for all levels and focuses on alignment, breath, and mindfulness.",
+    "durationInMinutes": 60,
+    "level": "All Levels",
+    "style": "Hatha",
+    "priceInCents": 1800
+  },
+  {
+    "id": "c2cf0d96-43c7-4a60-aa3e",
+    "title": "Vinyasa Flow",
+    "instructor": "Kairos Snow",
+    "description": "Join Kairos Snow for an energizing vinyasa flow class. This class is perfect for intermediate and advanced students looking for a challenge.",
+    "durationInMinutes": 60,
+    "level": "Advanced",
+    "style": "Vinyasa",
+    "priceInCents": 2000
+  },
+  {
+    "id": "d536d512-b2a6-4f6b-a7db",
+    "title": "Yin Yoga",
+    "instructor": "Kairos Snow",
+    "description": "Join Kairos Snow for a calming yin yoga class. This class is perfect for beginners and anyone looking to relax and release tension.",
+    "durationInMinutes": 75,
+    "level": "Intermediate",
+    "style": "Yin",
+    "priceInCents": 1500
+  },
+  {
+    "id": "01f5ef88-5a5c-48f1-a616",
+    "title": "Power Yoga",
+    "instructor": "Kairos Snow",
+    "description": "Join Kairos Snow for a powerful and dynamic power yoga class. This class is perfect for advanced students looking to build strength and endurance.",
+    "durationInMinutes": 90,
+    "level": "Beginner",
+    "style": "Power",
+    "priceInCents": 2500
+  },
+  {
+    "id": "6c3b6fcb-7c29-4ec0",
+    "title": "Hatha Yoga",
+    "instructor": "Zephyr Woods",
+    "description": "Join Zephyr Woods for a traditional hatha yoga class. This class is perfect for all levels and focuses on alignment, breath, and mindfulness.",
+    "durationInMinutes": 60,
+    "level": "Advanced",
+    "style": "Hatha",
+    "priceInCents": 1800
+  },
+  {
+    "id": "43c7-4a60-aa3e-52a0f937a87c",
+    "title": "Vinyasa Flow",
+    "instructor": "Zephyr Woods",
+    "description": "Join Zephyr Woods for an energizing vinyasa flow class. This class is perfect for intermediate and advanced students looking for a challenge.",
+    "durationInMinutes": 60,
+    "level": "Intermediate/Advanced",
+    "style": "Vinyasa",
+    "priceInCents": 2000
+  },
+  {
+    "id": "b2a6-4f6b-a7db-5ea6f1e6ce13",
+    "title": "Yin Yoga",
+    "instructor": "Zephyr Woods",
+    "description": "Join Zephyr Woods for a calming yin yoga class. This class is perfect for beginners and anyone looking to relax and release tension.",
+    "durationInMinutes": 75,
+    "level": "Beginner",
+    "style": "Yin",
+    "priceInCents": 1500
+  },
+  {
+    "id": "48f1-a616-c7d56f044eed",
+    "title": "Power Yoga",
+    "instructor": "Zephyr Woods",
+    "description": "Join Zephyr Woods for a powerful and dynamic power yoga class. This class is perfect for advanced students looking to build strength and endurance.",
+    "durationInMinutes": 90,
+    "level": "Intermediate",
+    "style": "Power",
+    "priceInCents": 2500
+  },
+  {
+    "id": "7c29-4ec0-b7f9-bc5e5d5c8db2",
+    "title": "Hatha Yoga",
+    "instructor": "Zephyr Woods",
+    "description": "Join Zephyr Woods for a traditional hatha yoga class. This class is perfect for all levels and focuses on alignment, breath, and mindfulness.",
+    "durationInMinutes": 60,
+    "level": "Beginner",
+    "style": "Hatha",
+    "priceInCents": 1800
+  },
+  {
+    "id": "6c3b6fcb-7c29-4ec0",
+    "title": "Hatha Yoga",
+    "instructor": "Lazuli Moon",
+    "description": "Join Lazuli Moon for a traditional hatha yoga class. This class is perfect for all levels and focuses on alignment, breath, and mindfulness.",
+    "durationInMinutes": 60,
+    "level": "Beginner",
+    "style": "Hatha",
+    "priceInCents": 1800
+  },
+  {
+    "id": "43c7-4a60-aa3e",
+    "title": "Vinyasa Flow",
+    "instructor": "Lazuli Moon",
+    "description": "Join Lazuli Moon for an energizing vinyasa flow class. This class is perfect for intermediate and advanced students looking for a challenge.",
+    "durationInMinutes": 60,
+    "level": "Beginner",
+    "style": "Vinyasa",
+    "priceInCents": 2000
+  },
+  {
+    "id": "b2a6-4f6b-a7db",
+    "title": "Yin Yoga",
+    "instructor": "Lazuli Moon",
+    "description": "Join Lazuli Moon for a calming yin yoga class. This class is perfect for beginners and anyone looking to relax and release tension.",
+    "durationInMinutes": 75,
+    "level": "Beginner",
+    "style": "Yin",
+    "priceInCents": 1500
+  },
+  {
+    "id": "48f1-a616",
+    "title": "Power Yoga",
+    "instructor": "Bodhi Ocean",
+    "description": "Join Bodhi Ocean for a powerful and dynamic power yoga class. This class is perfect for advanced students looking to build strength and endurance.",
+    "durationInMinutes": 90,
+    "level": "Beginner",
+    "style": "Power",
+    "priceInCents": 2500
+  },
+  {
+    "id": "7c29-4ec0-b7f9",
+    "title": "Hatha Yoga",
+    "instructor": "Lazuli Moon",
+    "description": "Join Lazuli Moon for a traditional hatha yoga class. This class is perfect for all levels and focuses on alignment, breath, and mindfulness.",
+    "durationInMinutes": 60,
+    "level": "Beginner",
+    "style": "Hatha",
+    "priceInCents": 1800
+  }
+]

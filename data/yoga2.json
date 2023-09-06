@@ -1,0 +1,52 @@
+[
+  {
+    "id": "95debd33-e9b4-44e2-85aa-c4e31f7b7863",
+    "title": "Yin Yoga",
+    "instructor": "Lazuli Moon",
+    "description": "Join Lazuli Moon for a calming yin yoga class. This class is perfect for beginners and anyone looking to relax and release tension.",
+    "durationInMinutes": 75,
+    "level": "Beginner",
+    "style": "Yin",
+    "priceInCents": 1500
+  },
+  {
+    "id": "21b811c9-458a-42b4-9f08-5e3918f2e90a",
+    "title": "Hatha Yoga",
+    "instructor": "Indigo Sky",
+    "description": "Join Indigo Sky for a gentle hatha yoga class. This class is perfect for all levels and focuses on the basics of yoga poses and breathwork.",
+    "durationInMinutes": 60,
+    "level": "All Levels",
+    "style": "Hatha",
+    "priceInCents": 1200
+  },
+  {
+    "id": "9fdef7c5-8534-4b69-b52a-d3e92f307bc8",
+    "title": "Vinyasa Yoga",
+    "instructor": "Aurora Borealis",
+    "description": "Join Aurora Borealis for a dynamic vinyasa yoga class. This class is perfect for intermediate and advanced students and focuses on flowing sequences of poses with breath.",
+    "durationInMinutes": 90,
+    "level": "Intermediate/Advanced",
+    "style": "Vinyasa",
+    "priceInCents": 1800
+  },
+  {
+    "id": "8c5bfbf6-9043-4c7e-80d7-734d2c8318e9",
+    "title": "Yogalates",
+    "instructor": "Phoenix Rising",
+    "description": "Join Phoenix Rising for a fusion class of yoga and pilates. This class is perfect for all levels and focuses on strengthening and toning the body.",
+    "durationInMinutes": 60,
+    "level": "All Levels",
+    "style": "Yogalates",
+    "priceInCents": 1300
+  },
+  {
+    "id": "69b0e5d5-df73-4837-94e8-f7a7e4ba2fc5",
+    "title": "Ashtanga Yoga",
+    "instructor": "Saffron Sage",
+    "description": "Join Saffron Sage for a dynamic and challenging Ashtanga yoga class. This class is perfect for advanced students and focuses on a set series of poses with breath and movement.",
+    "durationInMinutes": 90,
+    "level": "Advanced",
+    "style": "Ashtanga",
+    "priceInCents": 2000
+  }
+]

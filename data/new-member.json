@@ -1,0 +1,9 @@
+[
+  ["firstName", "Andi"],
+  ["lastName", "Anderson"],
+  ["email", "aaanderson@mnet.com"],
+  ["age", 58],
+  ["currentMember", true],
+  ["phone", "914-867-5309"],
+  ["skillLevel", 1]
+]

@@ -1,0 +1,26 @@
+{
+  "name": "lab-npm-packages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pursuit-curriculum/lab-npm-packages.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pursuit-curriculum/lab-npm-packages/issues"
+  },
+  "homepage": "https://github.com/pursuit-curriculum/lab-npm-packages#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
